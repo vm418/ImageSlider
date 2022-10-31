@@ -3,12 +3,12 @@ const nxt = document.querySelector('.next');
 const prev = document.querySelector('.prev');
 
 const pictures = [
-    './mrana.jpg);',
-    './ashoka-the-great.jpg);',
-    './baji.jpg);',
-    './raja.jpg);',
-    './samg.jpg);',
-    './shivaji-maharaj.jpg);'
+    './images/mrana.jpg);',
+    './images/ashoka-the-great.jpg);',
+    './images/baji.jpg);',
+    './images/raja.jpg);',
+    './images/samg.jpg);',
+    './images/shivaji-maharaj.jpg);'
 ];
 
 let current = 0;

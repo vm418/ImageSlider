@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 100vh;
+    width: 100wh;
+    display: flex;
+    background-image: url('./mrana.jpg');
+    
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 200ms;
+}
+
+button {
+    color: antiquewhite;
+    font-size: 5rem;
+    background-color: transparent;
+    margin: none;
+    border: none;
+}
+
+
+.next {
+    justify-self: flex-end;
+   
+}
+
+.prev {
+    
+    justify-self: flex-start;
+}
+
+.contain {
+    flex: 1;
+    align-self: flex-end;
+    justify-self: center;
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+}

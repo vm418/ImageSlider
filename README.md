@@ -7,7 +7,7 @@
 
 - Built a web app that allows user to view images on a moving slideshow using JavaScript, CSS and Html
 - Added functionality of allowing the user to skip forward and backwards, as well as click on a specific button to directly go to an image
-- Styled with CSS and used CSS grid to organize the layout and used DOM manipulation to alter the background image property
+- Styled with CSS and used Flexbox to organize the layout and used DOM manipulation to alter the background image property
 
 
 
